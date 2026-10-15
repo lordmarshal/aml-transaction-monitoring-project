@@ -36,7 +36,7 @@ A gap in scope was found: Interac e-Transfers are not in the core banking extrac
 
 ## Key issue
 
-**I03: Interac e-Transfers not monitored.** While testing the structuring scenario, analysts noticed that customers who split cash often moved it on by Interac e-Transfer. These transactions sit in the online banking platform, not core banking, so they are not in the feed. About 180,000 e-Transfers a month (15% of volume) would go unmonitored, which would not meet the objective of 100% coverage. See [CR001](../change_request_CR001.md).
+**I03: Interac e-Transfers not monitored.** While testing the structuring scenario, analysts noticed that customers who split cash often moved it on by Interac e-Transfer. These transactions sit in the online banking platform, not core banking, so they are not in the feed. About 180,000 e-Transfers a month (about 13% of all transactions) would go unmonitored, which would not meet the objective of 100% coverage. See [CR001](../change_request_CR001.md).
 
 ## Decisions needed
 
